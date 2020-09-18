@@ -1,5 +1,9 @@
 # Java-Memory-Management
 
+## GC
+ - จัดสรรหน่วยความจำ
+ - ตรวจสอบว่าวัตถุที่อ้างอิงใด ๆ ยังคงอยู่ในหน่วยความจำ
+
 ## Reference 
 
 - https://dzone.com/articles/java-memory-management
